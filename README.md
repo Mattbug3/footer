@@ -186,3 +186,9 @@ body{
 With these HTML and CSS codes, you can create a stylish and functional footer for your website. Feel free to customize the styles according to your website's design requirements.
 
 That's it! You now have a fully functional footer created using HTML and CSS. Experiment with different styles and layouts to match your website's design aesthetic.
+
+On Large Screen
+![large screen](./largeScreen.png)
+
+On Small Screen
+![small screen](./smallScreen.png)
